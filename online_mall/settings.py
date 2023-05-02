@@ -25,7 +25,10 @@ SECRET_KEY = 'django-insecure-!n$f06x^rsd-)7yh37%2or-y=e$_@nht2rj*v_iwx2$_7(d$_m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'www.onlinemall.site',
+    '127.0.0.1'
+]
 
 
 # Application definition
