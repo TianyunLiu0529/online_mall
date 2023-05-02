@@ -1,0 +1,13 @@
+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
+1. create structure of the project
+    packages: apps, libs, utils
+    directory: templates
+2.
+2.1 create a mysql database
+2.2 set up the database in setting
+        create user liu identified by 'zmwxf0418@'
+        grant all on online_mall.* to 'liu'@'%';
+        flush privileges;
+3.
+set up redis database
+
