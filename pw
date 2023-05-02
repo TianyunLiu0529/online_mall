@@ -10,4 +10,5 @@ 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
         flush privileges;
 3.
 set up redis database
-
+4.
+set up log

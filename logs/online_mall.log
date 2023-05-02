@@ -1,0 +1,18 @@
+INFO 2023-05-02 01:21:53,857 autoreload 637 Watching for file changes with StatReloader
+INFO 2023-05-02 01:22:10,594 basehttp 161 "GET / HTTP/1.1" 200 10697
+INFO 2023-05-02 01:25:46,545 autoreload 251 /Users/liu/Desktop/PersonalProject/Project/OnlineMall/online_mall/online_mall/urls.py changed, reloading.
+INFO 2023-05-02 01:25:46,959 autoreload 637 Watching for file changes with StatReloader
+INFO 2023-05-02 01:26:20,689 autoreload 251 /Users/liu/Desktop/PersonalProject/Project/OnlineMall/online_mall/online_mall/urls.py changed, reloading.
+INFO 2023-05-02 01:26:21,029 autoreload 637 Watching for file changes with StatReloader
+INFO 2023-05-02 01:27:41,838 autoreload 251 /Users/liu/Desktop/PersonalProject/Project/OnlineMall/online_mall/online_mall/urls.py changed, reloading.
+INFO 2023-05-02 01:27:42,151 autoreload 637 Watching for file changes with StatReloader
+WARNING 2023-05-02 01:27:53,679 log 230 Not Found: /
+WARNING 2023-05-02 01:27:53,680 basehttp 161 "GET / HTTP/1.1" 404 2168
+INFO 2023-05-02 01:27:54,695 basehttp 161 "GET /log HTTP/1.1" 301 0
+INFO 2023-05-02 01:27:54,700 basehttp 161 "GET /log/ HTTP/1.1" 200 3
+INFO 2023-05-02 01:30:06,672 autoreload 251 /Users/liu/Desktop/PersonalProject/Project/OnlineMall/online_mall/online_mall/urls.py changed, reloading.
+INFO 2023-05-02 01:30:07,005 autoreload 637 Watching for file changes with StatReloader
+INFO 2023-05-02 01:30:12,954 urls 23 user logged in
+WARNING 2023-05-02 01:30:12,955 urls 24 redis warning
+ERROR 2023-05-02 01:30:12,955 urls 25 recorde doesn;t exist
+INFO 2023-05-02 01:30:12,957 basehttp 161 "GET /log/ HTTP/1.1" 200 3
